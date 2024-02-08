@@ -1,0 +1,31 @@
+[
+  {
+    "id": "4f13ea93-92f8-4440-bb99-859a0fc3a86e",
+    "timestamp": "2022-11-09T20:10:11.169Z",
+    "products": [
+      "producto2",
+      "producto4"
+    ]
+  },
+  {
+    "timestamp": "2022-11-09T20:10:32.911Z",
+    "products": [
+      "soyproducto"
+    ],
+    "id": "aa27248d-948b-4e55-b1af-1d6eb23c9d5b"
+  },
+  {
+    "timestamp": "2022-11-09T20:10:38.173Z",
+    "products": [
+      "soyproducto"
+    ],
+    "id": "7b74eca0-ab6e-4c78-b4cb-e4e4fb2add30"
+  },
+  {
+    "timestamp": "2022-11-09T20:11:46.431Z",
+    "products": [
+      "soyproducto"
+    ],
+    "id": "da763011-f068-445c-ac14-cda4c0028bcb"
+  }
+]

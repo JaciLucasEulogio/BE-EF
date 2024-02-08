@@ -1,0 +1,10 @@
+<div id="container-messages">
+	<h2>Mensajes</h2>
+	<ul>
+		{{#each messages}}
+		<li>
+			<strong>{{this.email}}:</strong> {{this.body}}
+		</li>
+		{{/each}}
+	</ul>
+</div>

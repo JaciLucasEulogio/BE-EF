@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Pasto",
+    "price": 20,
+    "image": "www.imagenpant.com",
+    "stock": 1500,
+    "id": "9d0b62d1-006f-4af5-aba1-b757cef30532"
+  },
+  {
+    "timestamp": "2022-11-10T18:23:54.061Z",
+    "title": "Tapones",
+    "price": 20,
+    "image": "www.imagenpant.com",
+    "stock": 1500,
+    "id": "41595450-2e31-4f41-828e-3b65ddda8a73"
+  }
+]
